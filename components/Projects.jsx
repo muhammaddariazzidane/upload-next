@@ -23,6 +23,7 @@ const Projects = () => {
               <Image className="transition-all duration-300 hover:rotate-6 " src="/tailwind.svg" alt="/" width={25} height={25} />
               <Image className="transition-all duration-300 hover:rotate-6" src="/alpine.png" alt="/" width={25} height={25} />
               <Image className="transition-all duration-300 hover:rotate-6" src="/mysql.png" alt="/" width={30} height={25} />
+              <Image className="transition-all duration-300 hover:rotate-6 mt-3" src="/000.svg" alt="/" width={55} height={25} />
             </div>
           </div>
         </Link>
