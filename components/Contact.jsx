@@ -3,7 +3,8 @@ import React from "react";
 const Contact = () => {
   return (
     <>
-      <div class="mt-8 lg:mx-6">
+      <div class="max-w-full mt-8 lg:mx-6" id="contact">
+        <div className="w-full mx-auto text-center font-bold text-4xl py-24">Contact me</div>
         <div class="w-full px-8 py-10 mx-auto overflow-hidden bg-white rounded-lg shadow-2xl lg:max-w-xl shadow-deep-purple-accent-400/50">
           <h1 class="text-lg font-medium text-gray-700">What do you want to ask</h1>
 

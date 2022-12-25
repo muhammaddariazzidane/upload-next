@@ -4,10 +4,10 @@ import React from "react";
 const Skills = () => {
   return (
     <>
-      <div className="w-full duration-300 pb-8  pt-28">
+      <div className="max-w-full duration-300 pb-8 pt-28">
         <div className="container mx-auto px-4">
           <h4 className="text-4xl font-semibold text-center mb-12">My Skills</h4>
-          <div className="w-full px-4 grid sm:grid-cols-2 md:grid-cols-3  lg:grid-cols-4 gap-8 mb-12 ">
+          <div className="w-full px-4 grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 mb-12 ">
             <div>
               <div className="p-6 shadow-xl shadow-deep-purple-accent-400/30 w-30 h-[6rem] bg-white  rounded-xl hover:scale-105 ease-in-out duration-300">
                 <div className="grid grid-cols-2 gap-4 justify-center items-center">
