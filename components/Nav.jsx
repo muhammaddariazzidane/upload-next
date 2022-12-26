@@ -33,7 +33,7 @@ const Nav = () => {
             <a className="my-2 text-gray-700 transition-colors duration-300 transform  hover:text-blue-500 dark:hover:text-blue-400 md:mx-4 md:my-0" href="#projects">
               Projects
             </a>
-            <a className="my-2 text-gray-700 transition-colors duration-300 transform  hover:text-blue-500 dark:hover:text-blue-400 md:mx-4 md:my-0" href="#">
+            <a className="my-2 text-gray-700 transition-colors duration-300 transform  hover:text-blue-500 dark:hover:text-blue-400 md:mx-4 md:my-0" href="#skills">
               Skills
             </a>
             <a className="my-2 text-gray-700 transition-colors duration-300 transform  hover:text-blue-500 dark:hover:text-blue-400 md:mx-4 md:my-0" href="#contact">
