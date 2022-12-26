@@ -6,8 +6,8 @@ import React from "react";
 
 const Projects = () => {
   return (
-    <div className="container mx-auto" id="projects">
-      <div className="w-full px-4 my-24">
+    <div className="container py-28 mx-auto" id="projects">
+      <div className="w-full px-4 my-20">
         <div className="max-w-xl text-center mx-auto">
           <h1 className="font-semibold text-4xl text-black">My Projects</h1>
         </div>

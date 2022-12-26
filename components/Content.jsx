@@ -4,7 +4,7 @@ import { FiGithub, FiInstagram, FiYoutube, FiFacebook } from "react-icons/fi";
 
 const Content = () => {
   return (
-    <div class="lg:flex container mx-auto my-32">
+    <div class="lg:flex container mx-auto mt-32 mb-16">
       <div class="flex items-center lg:ml-16 justify-center w-full px-6 py-8 lg:h-[32rem] lg:w-1/2">
         <div class="max-w-xl">
           <h5 className="mb-4 text-4xl font-extrabold leading-none">
